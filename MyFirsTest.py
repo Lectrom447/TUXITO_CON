@@ -1,2 +1,3 @@
-number1 = input('hola:') 
+number1 = input('Ingrese un numero: ') 
 print(number1)
+
